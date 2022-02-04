@@ -356,7 +356,6 @@ item_tags {
     S:"ic2:itemarmorrubboots"=NoFallDamage
     S:"ic2:itemquantumarmorjetpack"=FlyInSpace NoFallDamage
     S:"ic2:itemquantumarmornuclearjetplate"=FlyInSpace NoFallDamage
-    S:"ic2:itemsolarhelmets"=BreathingHelmet
     S:"ic2:jetpack"=FlyInSpace NoFallDamage
     S:"ic2:jetpack_electric"=FlyInSpace NoFallDamage
     S:"ic2:nano_helmet"=BreathingHelmet
@@ -364,7 +363,6 @@ item_tags {
     S:"ic2:quantum_chestplate"=FlyInSpace NoFallDamage
     S:"ic2:quantum_helmet"=BreathingHelmet
     S:"ic2:rubber_boots"=NoFallDamage
-    S:"ic2:solar_helmet"=BreathingHelmet
     S:"pneumaticcraft:pneumatic_helmet"=BreathingHelmet
     S:"powersuits:powerarmor_head"=BreathingHelmet
     S:"psi:psimetal_exosuit_helmet"=BreathingHelmet
@@ -380,6 +378,11 @@ item_tags {
     S:"warpdrive:warp_armor.advanced.leggings"=NoFallDamage
     S:"warpdrive:warp_armor.superior.boots"=NoFallDamage
     S:"warpdrive:warp_armor.superior.leggings"=NoFallDamage
+    S:"techguns:t4_power_helmet"=BreathingHelmet
+    S:"techguns:t4_praetor_helmet"=BreathingHelmet
+    S:"techguns:hazmat_helmet"=BreathingHelmet
+    S:"midnight:rockshroom_helmet"=BreathingHelmet
+    S:"midnight:tenebrum_helmet"=BreathingHelmet
 }
 
 
