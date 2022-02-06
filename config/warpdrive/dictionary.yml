@@ -136,6 +136,7 @@ block_tags {
     S:"minecraft:portal"=Anchor StopMining
     S:"minecraft:redstone_block"=Mining
     S:"minecraft:redstone_torch"=PlaceLatest Mining
+    S:"minecraft:redstone_wire"=PlaceLater Mining
     S:"minecraft:repeating_command_block"=Anchor StopMining
     S:"minecraft:sand"=Soil
     S:"minecraft:snow_layer"=NoMass Expandable
