@@ -32,8 +32,8 @@
     "Name": "bronzechicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "ic2:ingot:1",
-    "Drop Item": "ic2:ingot:1",
+    "Lay Item": "thermalfoundation:material:163",
+    "Drop Item": "thermalfoundation:material:163",
     "Spawn Type": "NONE",
     "Parent 1": "morechickens:copperchicken",
     "Parent 2": "morechickens:tinchicken"
@@ -42,8 +42,8 @@
     "Name": "tinchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "ic2:ingot:6",
-    "Drop Item": "ic2:ingot:6",
+    "Lay Item": "thermalfoundation:material:129",
+    "Drop Item": "thermalfoundation:material:129",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:whitechicken",
     "Parent 2": "chickens:claychicken"
@@ -52,8 +52,8 @@
     "Name": "steelchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "ic2:ingot:5",
-    "Drop Item": "ic2:ingot:5",
+    "Lay Item": "thermalfoundation:material:160",
+    "Drop Item": "thermalfoundation:material:160",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "chickens:coalchicken"
@@ -92,8 +92,8 @@
     "Name": "leadchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "ic2:ingot:3",
-    "Drop Item": "ic2:ingot:3",
+    "Lay Item": "thermalfoundation:material:131",
+    "Drop Item": "thermalfoundation:material:131",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "chickens:cyanchicken"
