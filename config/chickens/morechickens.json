@@ -62,8 +62,8 @@
     "Name": "silverorechicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "ic2:ingot:4",
-    "Drop Item": "ic2:ingot:4",
+    "Lay Item": "thermalfoundation:material:130",
+    "Drop Item": "thermalfoundation:material:130",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "chickens:whitechicken"
