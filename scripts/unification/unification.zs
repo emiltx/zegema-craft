@@ -128,3 +128,61 @@ unify(LeadIngot,<ore:ingotLead>);
 unify(LeadDust,<ore:dustLead>);
 unify(LeadNugget,<ore:nuggetLead>);
 unify(LeadPlate,<ore:plateLead>);
+
+//Silver
+
+val SilverIngot = [
+    <immersiveengineering:metal:3>,
+    <ic2:ingot:4>
+] as IItemStack[];
+
+val SilverDust = [
+    <ic2:dust:14>,
+    <mekanism:dust:5>,
+    <immersiveengineering:metal:12>
+] as IItemStack[];
+
+unify([<immersiveengineering:ore:3>],<ore:oreSilver>);
+unify(SilverIngot,<ore:ingotSilver>);
+unify(SilverDust,<ore:dustSilver>);
+unify([<immersiveengineering:metal:23>],<ore:nuggetSilver>);
+unify([<immersiveengineering:metal:33>],<ore:plateSilver>);
+
+//Nickel
+
+unify([<immersiveengineering:ore:4>],<ore:oreNickel>);
+unify([<immersiveengineering:metal:4>],<ore:ingotNickel>);
+unify([<immersiveengineering:metal:13>],<ore:dustNickel>);
+unify([<immersiveengineering:metal:24>],<ore:nuggetNickel>);
+unify([<immersiveengineering:metal:34>],<ore:plateNickel>);
+
+//Aluminium
+
+unify([<immersiveengineering:ore:1>],<ore:oreAluminum>);
+unify([<immersiveengineering:metal:1>],<ore:ingotAluminum>);
+unify([<immersiveengineering:metal:10>],<ore:dustAluminum>);
+unify([<immersiveengineering:metal:21>],<ore:nuggetAluminum>);
+unify([<immersiveengineering:metal:31>],<ore:plateAluminum>);
+
+//Constantan
+
+unify([<immersiveengineering:metal:6>],<ore:ingotConstantan>);
+unify([<immersiveengineering:metal:15>],<ore:dustConstantan>);
+unify([<immersiveengineering:metal:26>],<ore:nuggetConstantan>);
+unify([<immersiveengineering:metal:36>],<ore:plateConstantan>);
+
+//Electrum
+
+unify([<immersiveengineering:metal:7>],<ore:ingotElectrum>);
+unify([<immersiveengineering:metal:16>],<ore:dustElectrum>);
+unify([<immersiveengineering:metal:27>],<ore:nuggetElectrum>);
+unify([<immersiveengineering:metal:37>],<ore:plateElectrum>);
+
+//Bronze
+/*
+val BronzeIngot = [
+    <ic2:ingot:1>,
+    <mekanism:ingot:2>,
+    <survivalplus:bronze_ingot>,
+    <techguns:itemshared:81>
+] as IItemStack[];*/
